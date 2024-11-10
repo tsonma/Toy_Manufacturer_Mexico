@@ -1,0 +1,26 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files (macOS and Windows)
+.DS_Store      # macOS system file (safe to leave in for cross-platform projects)
+Thumbs.db      # Windows system file
+desktop.ini    # Windows system file
+
+# Ignore environment variables and secrets
+.env           # Environment variable file
+
+# Ignore temporary and log files
+*.log          # Log files
+*.tmp          # Temp files
+*.bak          # Backup files
+
+# Ignore pytest cache (if using pytest for Python testing)
+.pytest_cache/
