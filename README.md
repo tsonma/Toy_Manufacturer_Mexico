@@ -43,5 +43,5 @@ This information is detailed in the report titled "Details".
 - Can you find any seasonal trends or patterns in the sales data?
 
 In both 2022 and 2023, August was the least profitable month.
-In both 2022 and 2023, February was less profitable than January
+In both 2022 and 2023, February was less profitable than January.
 In 2022, sales showed an upward trend during the end of Q3 and Q4 (September to December), likely due to aggressive promotions such as Back to School, Black Friday, Boxing Week, and End-of-Year Clearance.
