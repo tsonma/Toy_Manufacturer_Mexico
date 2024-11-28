@@ -12,5 +12,5 @@ Approach
 - Clean the data in Python using Jupyter notebook on Visual Studio Code
 - Visualize the data using Microsoft Power BI
 
-
+Data collected from Maven Analytics (https://app.mavenanalytics.io/datasets; name: Mexico Toy Sales)
 
