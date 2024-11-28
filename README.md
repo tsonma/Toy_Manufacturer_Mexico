@@ -35,6 +35,8 @@ This project analyzes the sales data of a fictitious toy company in Mexico calle
 - August was the least profitable month in both 2022 and 2023.
 - February was less profitable than January in both years.
 - Sales in 2022 displayed an upward trend during Q3 and Q4 (September to December). This can be explained by promotions such as Back to School, Black Friday, Boxing Week and End-of-Year Clearance that typically occur during the end of the year.
+- Details of these findings are available in the Details report in the dashboard.
 
 ## Future Improvements
 - It would be valuable to incorporate detailed sales data from the company's competitors or the industry's monthly sales averages. This would enable a deeper analysis of the company’s performance relative to industry benchmarks.
+- Integrating the company's monthly profit targets would provide valuable insights into whether they successfully met their goals.
