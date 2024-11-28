@@ -7,7 +7,7 @@ Sales & inventory data for a fictitious chain of toy stores in Mexico called Mav
 
 Objectives
 - Create a scorecard that provides an overview of the company's performance in sales.
-- Determine which product categories drive the biggest profits? Is this the same across store locations.
+- Determine which product categories drive the biggest profits and whether it is the same across store locations.
 - Find any seasonal trends or patterns in the sales data.
 
 ## Installation Instructions
@@ -30,7 +30,7 @@ All four store locations (Downtown, Commercial, Residential, and Airport) experi
 
 The company heavily relies on its Downtown location, which contributes 56.7% of the company's total profit.
 
-- Determine which product categories drive the biggest profits? Is this the same across store locations.
+- Determine which product categories drive the biggest profits and whether it is the same across store locations.
 
 The "Arts & Crafts" product category is the most profitable, contributing 26.3% of the company’s profit in 2023.
 The "Toys" product category is the second most profitable, contributing 25.8% of the company’s profit in 2023.
