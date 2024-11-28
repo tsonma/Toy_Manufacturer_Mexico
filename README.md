@@ -12,7 +12,7 @@ Objectives
 
 ## Installation Instructions
 - Download the 4 csv files in the "Cleaned_Data" folder
-- Download the Power BI called "Dashboard"
+- Download the Power BI called "Dashboard" and change the file path in Power Query if you want to do additional adjustments. The file path will depend on where you save the csv files.
 
 ## Technologies Used
 - Cleaned the data in Python using Jupyter notebook on Visual Studio Code
